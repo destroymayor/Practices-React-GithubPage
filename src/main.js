@@ -6,7 +6,7 @@ export default class Main extends Component {
 
     render() {
         return (
-            <div style={ { backgroundColor: '#ff0' } }>
+            <div style={ { backgroundColor: '#fff' } }>
               <Bar />
               <CommentApp />
             </div>
