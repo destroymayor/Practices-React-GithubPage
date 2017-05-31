@@ -2,7 +2,7 @@
   "name": "react-githubpage-practices",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://destroymayor.github.io/react-githubpage-practices",
+  "homepage": "https://destroymayor.github.io/React-GithubPage-Practices",
   "dependencies": {
     "react": "^15.5.4",
     "react-dom": "^15.5.4"
